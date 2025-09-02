@@ -1,0 +1,28 @@
+#tema Ayu dark
+#tema de icone vscodeicons
+
+abusaidm.html-snippets
+christian-kohler.path-intellisense
+coenraads.bracket-pair-colorizer-2
+cweijan.dbclient-jdbc
+cweijan.vscode-mysql-client2
+danielpinto8zz6.c-cpp-project-generator
+dbaeumer.vscode-eslint
+dsznajder.es7-react-js-snippets
+eamodio.gitlens
+ericsia.pythonsnippets3
+esbenp.prettier-vscode
+expo.vscode-expo-tools
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+github.vscode-pull-request-github
+google.geminicodeassist
+ibm.output-colorizer
+ms-ceintl.vscode-language-pack-pt-br
+ms-vscode.cmake-tools
+redhat.vscode-yaml
+teabyii.ayu
+twxs.cmake
+vscode-icons-team.vscode-icons
+xabikos.javascriptsnippets
+yandeu.five-server
