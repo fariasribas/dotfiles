@@ -1,0 +1,22 @@
+{
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "focusNewTab": false,
+  "trashOption": "local",
+  "promptDelete": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "/Assets",
+  "showInlineTitle": true,
+  "userIgnoreFilters": [
+    "Notas Diárias/"
+  ],
+  "readableLineLength": true,
+  "showIndentGuide": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

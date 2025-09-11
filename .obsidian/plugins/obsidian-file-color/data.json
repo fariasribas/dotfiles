@@ -1,0 +1,34 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "pcBKjmbDZqsbx8KOknTF5",
+      "name": "Vermelho",
+      "value": "#fe7c7c"
+    },
+    {
+      "id": "gcibSYhiVCxnH2QAVr3I-",
+      "name": "Verde",
+      "value": "#82d3c6"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Notas de papel, após organizar",
+      "color": "pcBKjmbDZqsbx8KOknTF5"
+    },
+    {
+      "path": "Listas",
+      "color": "pcBKjmbDZqsbx8KOknTF5"
+    },
+    {
+      "path": "Plano Pessoal/Plano de carreira (Faculdades).canvas",
+      "color": "pcBKjmbDZqsbx8KOknTF5"
+    },
+    {
+      "path": "Plano Pessoal/Plano de Investimento.md",
+      "color": "gcibSYhiVCxnH2QAVr3I-"
+    }
+  ]
+}
